@@ -1,4 +1,5 @@
 ### Hi there!
+[![wakatime](https://wakatime.com/badge/user/97930e4c-03cd-45ff-8a9e-30329c30be38.svg)](https://wakatime.com/@Halcy)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=44944A&lines=Telegram:+@halcyyy)](https://t.me/halcyyy)
 
