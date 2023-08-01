@@ -1,5 +1,7 @@
 ### Hi there!
 
+https://wakatime.com/badge/user/90f2aa9d-9eab-4b9e-a54d-b151edf7f271.svg
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=44944A&lines=Telegram:+@halcyyy)](https://t.me/halcyyy)
 
 I am learning Java development<br>
