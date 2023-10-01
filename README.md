@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=44944A&lines=Telegram:+@halcyyy)](https://t.me/halcyyy)
 
-I am learning Java development<br>
-I really love coding and spend hours on the computer.<br>
-Now I study different libraries and do mini-projects<br>
-Learning Spring Framework<br>
+- 👋 I'm Halcyon, Java Backend Developer
+- 💻 I really love coding and spend hours on the computer
+- ☘️ Now I study Spring Framework and working on pet-projects
+- 🌐 You can contact me in a telegram
