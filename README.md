@@ -6,5 +6,5 @@
 
 - 👋 I'm Halcyon, Java Backend Developer
 - 💻 I really love coding and spend hours on the computer
-- ☘️ Now I study Spring Framework and working on pet-projects
+- ☘️ Now I study Spring Framework and work on pet-projects
 - 🌐 You can contact me in a telegram
