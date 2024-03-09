@@ -21,8 +21,8 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
+## Last 7days coding stat
 <!--START_SECTION:waka-->
-
 ```txt
 Java              12 hrs 47 mins  █████████████████████░░░░   84.04 %
 YAML              51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
@@ -30,5 +30,16 @@ SQL               45 mins         █▒░░░░░░░░░░░░░�
 Kotlin            17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
 Shell Script      8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 ```
-
 <!--END_SECTION:waka-->
+
+## IDEs/Editors
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## Languagues
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+## Learning (in progress)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
