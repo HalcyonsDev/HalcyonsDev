@@ -17,19 +17,6 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-## Last 7days coding stat
-<!--START_SECTION:waka-->
-
-```txt
-Java              13 hrs 17 mins  ██████████████████████░░░   87.94 %
-JSON              29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-YAML              27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-SQL               23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-GitIgnore file    7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-```
-
-<!--END_SECTION:waka-->
-
 ## IDEs/Editors
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
