@@ -9,6 +9,8 @@
       - [Discord](@halcyon.s)
 ```
 
+[![wakatime](https://wakatime.com/badge/user/90f2aa9d-9eab-4b9e-a54d-b151edf7f271.svg)](https://wakatime.com/@90f2aa9d-9eab-4b9e-a54d-b151edf7f271)
+
 ## Technologies that I love and use
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
