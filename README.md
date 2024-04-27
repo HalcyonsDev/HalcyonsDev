@@ -1,4 +1,5 @@
 ![Header](https://github.com/HalcyonsDev/HalcyonsDev/blob/main/assets/freedom.gif)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Halcyon;Computer+Science+Student)](https://git.io/typing-svg)
 
 ```
